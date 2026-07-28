@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fzbu3p.juragan89.online/sitemap.xml
